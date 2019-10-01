@@ -9,8 +9,9 @@ A decent useful discord bot for HackTheBox users. It will notify you about upcom
 
 ## contributions
 1. MinatoTW [@MinatoTW_](https://twitter.com/MinatoTW_)
-2. Melvin langvik [@Flangvik](https://twitter.com/Flangvik)
-3. fasetto
+2. felamos [@_felamos](https://twitter.com/_felamos)
+3. Melvin langvik [@Flangvik](https://twitter.com/Flangvik)
+4. fasetto
 
 ## I Want X Feature In HackTheBox BOT!
 You can open an issue and describe your feature with massive details.
