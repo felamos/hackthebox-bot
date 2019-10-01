@@ -1,0 +1,25 @@
+{
+  "token": "DISCORD BOT TOKEN",
+  "prefix": "~",
+  "status": "ACTIVITY",
+  "owners": [
+    OWNER_ID,
+    OWNER_ID
+  ],
+
+
+  "invite": "INVITE",
+  "htb_api": "HTB TOKEN",
+  "hcti_combos": [ "HCTI API" ],
+  "yt_key" : "YOUTUBE API",
+
+
+  "mysql_ip" : "MYSQL HOST",
+  "mysql_user" : "MYSQL USERNAME",
+  "mysql_pass" : "MYSQL PASSWORD",
+  "mysql_db" : "bot",
+
+
+  "htb_username" : "HTB USERNAME",
+  "htb_password" : "HTB PASSWORD"
+}
