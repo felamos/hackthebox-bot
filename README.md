@@ -21,6 +21,7 @@ You can open an issue and describe your feature with massive details.
 #### Auto-Announcement
 
 ![Script Image](https://i.imgur.com/u7fSM6E.png)
+
 Configure this feature : [Auto-Announcement Wiki](https://github.com/felamos/hackthebox-bot/wiki/Auto-Announcement)
 
 ### User Module
