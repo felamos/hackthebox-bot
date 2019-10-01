@@ -2,7 +2,7 @@
 v1.0
 
 ## What Is It?
-A decent useful discord bot for HackTheBox users. It will notify you about upcoming boxes and let your retrive information from HTB. Its written in C# cross platform dotnet core.
+A decent useful discord bot for HackTheBox users. It will notify you about upcoming boxes and let your retrieve information from HTB. Its written in C# cross platform dotnet core.
 
 ## Wiki
 
@@ -74,7 +74,7 @@ Retrieve HTB write blog post from 0xdf's website.
 
 #### ~ippsec
 
-Get ippsec's video link, it will also retrive infomation based on video description.
+Get ippsec's video link, it will also retrieve infomation based on video description.
 
 ![Script Image](https://i.imgur.com/8MZGLAI.png)
 
