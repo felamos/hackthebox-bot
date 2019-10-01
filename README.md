@@ -58,7 +58,7 @@ Displays user id for the given user.
 
 ![Script Image](https://i.imgur.com/UJaHFQ7.png)
 
-Retrive any blog post from 0xdf's website.
+Retrieve any blog post from 0xdf's website.
 
 #### ~active
 
@@ -70,7 +70,7 @@ List all active boxes.
 
 ![Script Image](https://i.imgur.com/wdkaFKm.png)
 
-Retrive HTB write blog post from 0xdf's website.
+Retrieve HTB write blog post from 0xdf's website.
 
 #### ~ippsec
 
