@@ -98,12 +98,6 @@ Displays infomation for unreleased boxes.
 
 Register with your api and it can be re-use to reset box and other stuff we will implement in future.
 
-#### Reset boxes from discord
-
-![Script Image](https://i.imgur.com/lAVEzUE.png)
-![Script Image](https://i.imgur.com/9CdutWC.png)
-
-Reset any box.
 
 #### Delete your account
 
