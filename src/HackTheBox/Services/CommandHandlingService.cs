@@ -85,7 +85,7 @@ namespace HackTheBox.Services
                     using (var db = new LiteDB.LiteDatabase("hack.db")) {
                         var boxes = db.GetCollection<HTBBox>("boxes");
                         var newBox = boxes.FindById(1);
-                        ulong id = 588067165593141249;
+                        ulong id = 611290292229898240;
                         var chnl = discord.GetChannel(id) as IMessageChannel; // 4
 
                         Console.WriteLine(newBox.release.ToString() + " " + DateTime.UtcNow);
