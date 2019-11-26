@@ -69,7 +69,7 @@ namespace HackTheBox.Modules
             }
         }
 
-        /*[Command("reset")]
+        [Command("reset")]
         [Remarks("!reset [box]")]
         [Summary("reset box")]
 
@@ -140,7 +140,7 @@ namespace HackTheBox.Modules
                 await ReplyAsync("You are not registered!");
             }
 
-        }*/
+        }
 
         [Command("deleteacc")]
         [Remarks("!deleteacc")]
